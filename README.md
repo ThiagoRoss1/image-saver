@@ -1,0 +1,1 @@
+# Chrome Image Saver Extension
